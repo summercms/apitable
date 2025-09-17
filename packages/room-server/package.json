@@ -63,7 +63,7 @@
     "fastify-helmet": "^5.0.0",
     "fastify-multipart": "^4.0.0",
     "fastify-swagger": "^4.3.3",
-    "form-data": "^3.0.0",
+    "form-data": "^3.0.4",
     "getmac": "^5.20.0",
     "immer": "9.0.16",
     "ioredis": "^4.24.6",
